@@ -1,4 +1,4 @@
-name: env_elo_decider2
+name: env_elo_decider
 channels:
   - defaults
 dependencies:
