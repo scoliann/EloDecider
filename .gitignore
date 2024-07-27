@@ -1,0 +1,5 @@
+# Ignore directories
+blob_storage/
+webrtc_event_logs/
+video_demo/
+__pycache__/

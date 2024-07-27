@@ -13,7 +13,7 @@ Finding a group consensus becomes exponentially hard as the number of options in
 When faced with deciding between two choices, however, the decision is easy.  This project uses the Elo algorithm to assign ratings, and then considers the ratings from all users to determine an optimal subset of options.
 
 ## Demo
-A brief video demonstrating how to run this project can be found [here](www.youtube.com)!
+A brief video demonstrating how to run this project can be found [here](https://youtu.be/GAZtfMi1uo4)!
 
 ## Setup
 1. Create and activate conda environment via:
